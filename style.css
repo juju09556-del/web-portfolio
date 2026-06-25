@@ -7,6 +7,7 @@
 
 body {
    background:url(img/flower.gif) no-repeat fixed;
+   background:#000;
    font-family:  "Pretendard", "san-serif";
    cursor :none;
 }
